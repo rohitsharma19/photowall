@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photowall/static/css/main.96827eda.chunk.css",
+    "main.js": "/photowall/static/js/main.47b194a5.chunk.js",
+    "main.js.map": "/photowall/static/js/main.47b194a5.chunk.js.map",
+    "runtime-main.js": "/photowall/static/js/runtime-main.e1920836.js",
+    "runtime-main.js.map": "/photowall/static/js/runtime-main.e1920836.js.map",
+    "static/js/2.6c4be1ea.chunk.js": "/photowall/static/js/2.6c4be1ea.chunk.js",
+    "static/js/2.6c4be1ea.chunk.js.map": "/photowall/static/js/2.6c4be1ea.chunk.js.map",
+    "index.html": "/photowall/index.html",
+    "precache-manifest.10111661e3f309512ec7c740f69bcc57.js": "/photowall/precache-manifest.10111661e3f309512ec7c740f69bcc57.js",
+    "service-worker.js": "/photowall/service-worker.js",
+    "static/css/main.96827eda.chunk.css.map": "/photowall/static/css/main.96827eda.chunk.css.map",
+    "static/js/2.6c4be1ea.chunk.js.LICENSE.txt": "/photowall/static/js/2.6c4be1ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1920836.js",
+    "static/js/2.6c4be1ea.chunk.js",
+    "static/css/main.96827eda.chunk.css",
+    "static/js/main.47b194a5.chunk.js"
+  ]
+}
